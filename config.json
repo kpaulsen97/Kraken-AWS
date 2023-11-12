@@ -1,0 +1,5 @@
+{
+    "ticker_to_track": "BTCEUR",
+    "ticker_to_trade": "ETHEUR",
+    "my_log_name": "logs.txt"
+}
